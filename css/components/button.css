@@ -1,0 +1,23 @@
+.btn-orange {
+    background-color: rgb(252, 165, 3);
+    color: black;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-family: 'Lato', sans-serif;
+}
+
+
+#view-more-button {
+    background-color: orange;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: flex;
+}
+
+#view-more-button:hover {
+    background-color: #0056B3;
+}
